@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?ccsproject version="1.0"?>
+<projectOptions>
+	<ccsVariant value="50:Theia-based"/>
+	<ccsVersion value="71.0.0"/>
+	<deviceFamily value="TMS470"/>
+	<connection value="common/targetdb/connections/Stellaris_ICDI_Connection.xml"/>
+	<createSlaveProjects value=""/>
+	<templateProperties value="id=com.ti.ccs.project.emptyProjectWithMainTemplate_ticlang"/>
+	<activeTargetConfiguration value="targetConfigs/Tiva TM4C123GH6PM.ccxml"/>
+	<isTargetConfigurationManual value="false"/>
+	<origin value="project-wizard"/>
+	<filesToOpen value="main.c"/>
+</projectOptions>
